@@ -8,7 +8,7 @@ Este curso tiene como objetivo aprender el lenguaje de programación Julia para 
 
 # Material del Curso
 
-- [Lineamintos del curso](/lineamientos.pdf)
+- [Lineamientos del curso](/lineamientos.pdf)
 - Conceptos básicos de Julia ([notebook](/intro-a-julia))
 
 # Tareas
