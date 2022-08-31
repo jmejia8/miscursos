@@ -11,6 +11,18 @@ Este curso tiene como objetivo aprender el lenguaje de programación Julia para 
 - [Lineamientos del curso](#)
 - Conceptos básicos de Julia ([notebook](/visualizaciondedatos/intro-a-julia))
 - Arreglos y Diccionarios ([notebook](/visualizaciondedatos/arreglos))
+- Usando `DataFrames` ([notebook](/visualizaciondedatos/dataframes))
+
+## Conjuntos de datos:
+
+- Iris ([CSV](/visualizaciondedatos/datos/iris.csv))
+- Pima Indian Diabetes ([CSV](/visualizaciondedatos/datos/pima-indians-diabetes.csv), [descripción](https://www.kaggle.com/code/vincentlugat/pima-indians-diabetes-eda-prediction-0-906/notebook))
+- COVID-19 reportados en México:
+    * Hasta 30 de agosto de 2022 ([CSV](/visualizaciondedatos/datos/Mexico_COVID19_CTD.csv)).
+    * Datos actualizados ([CSV](https://raw.githubusercontent.com/carranco-sga/Mexico-COVID-19_2022/main/Mexico_COVID19_CTD.csv)).
+
+[^1]: 
+[^2]: 
 
 # Tareas
 
