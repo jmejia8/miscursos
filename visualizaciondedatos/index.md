@@ -21,9 +21,8 @@ Este curso tiene como objetivo aprender el lenguaje de programación Julia para 
     * Hasta 30 de agosto de 2022 ([CSV](/visualizaciondedatos/datos/Mexico_COVID19_CTD.csv)).
     * Datos actualizados ([CSV](https://raw.githubusercontent.com/carranco-sga/Mexico-COVID-19_2022/main/Mexico_COVID19_CTD.csv)).
 
-[^1]: 
-[^2]: 
 
 # Tareas
 
 - [Tarea 1](/visualizaciondedatos/Tarea_01.pdf) (Fecha de entrega **26 de agosto de 2022**)
+- [Tarea 2](/visualizaciondedatos/Tarea_02.pdf) (Fecha de entrega **9 de septiembre de 2022**)
