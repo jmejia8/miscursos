@@ -17,7 +17,7 @@ Este curso tiene como objetivo aprender el lenguaje de programación Julia para 
 
 - Iris ([CSV](/visualizaciondedatos/datos/iris.csv))
 - Pima Indian Diabetes ([CSV](/visualizaciondedatos/datos/pima-indians-diabetes.csv), [descripción](https://www.kaggle.com/code/vincentlugat/pima-indians-diabetes-eda-prediction-0-906/notebook))
-- COVID-19 reportados en México:
+- COVID-19 reportados en México ([descripción](https://github.com/carranco-sga/Mexico-COVID-19_2022/tree/main/CTD)):
     * Hasta 30 de agosto de 2022 ([CSV](/visualizaciondedatos/datos/Mexico_COVID19_CTD.csv)).
     * Datos actualizados ([CSV](https://raw.githubusercontent.com/carranco-sga/Mexico-COVID-19_2022/main/Mexico_COVID19_CTD.csv)).
 
