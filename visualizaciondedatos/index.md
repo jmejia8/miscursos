@@ -12,6 +12,7 @@ Este curso tiene como objetivo aprender el lenguaje de programación Julia para 
 - Conceptos básicos de Julia ([notebook](/visualizaciondedatos/intro-a-julia))
 - Arreglos y Diccionarios ([notebook](/visualizaciondedatos/arreglos))
 - Usando `DataFrames` ([notebook](/visualizaciondedatos/dataframes))
+- Introducción a Visualización e Interactividad ([notebook](/visualizaciondedatos/introduccion_plots))
 
 ## Conjuntos de datos:
 
