@@ -22,6 +22,7 @@ Este curso tiene como objetivo aprender el lenguaje de programación Julia para 
 - COVID-19 reportados en México ([descripción](https://github.com/carranco-sga/Mexico-COVID-19_2022/tree/main/CTD)):
     * Hasta 30 de agosto de 2022 ([CSV](/visualizaciondedatos/datos/Mexico_COVID19_CTD.csv)).
     * Datos actualizados ([CSV](https://raw.githubusercontent.com/carranco-sga/Mexico-COVID-19_2022/main/Mexico_COVID19_CTD.csv)).
+- Neuro con datos faltantes ([CSV](/visualizaciondedatos/datos/neuro-faltantes.csv)).
 
 
 # Tareas
