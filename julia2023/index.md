@@ -4,7 +4,7 @@
 # Material del Curso
 
 - Instalación ([PDF](/julia2023/instalacion.pdf))
-- Contexto ([PDF](/julia2023/contexto-y-sintaxis.pdf))
+- Contexto 
 - Sintaxis ([notebook](/julia2023/sintaxis))
 - Ejercicios ([notebook](/julia2023/ejercicios))
 
