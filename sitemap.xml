@@ -3,79 +3,91 @@
 
 <url>
     <loc>https://tlienart.github.io/FranklinTemplates.jl/cursojulia101/index.html</loc>
-    <lastmod>2024-02-13</lastmod>
+    <lastmod>2024-04-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/orjulia/index.html</loc>
-    <lastmod>2024-02-13</lastmod>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/epiojulia/index.html</loc>
+    <lastmod>2024-04-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://tlienart.github.io/FranklinTemplates.jl/julia2023/index.html</loc>
-    <lastmod>2024-02-13</lastmod>
+    <lastmod>2024-04-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://tlienart.github.io/FranklinTemplates.jl/visualizaciondedatos/index.html</loc>
-    <lastmod>2024-02-13</lastmod>
+    <lastmod>2024-04-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://tlienart.github.io/FranklinTemplates.jl/index.html</loc>
-    <lastmod>2024-02-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/cursojulia101/sintaxis/</loc>
-    <lastmod>2024-02-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/julia2023/ejercicios/</loc>
-    <lastmod>2024-02-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/julia2023/sintaxis/</loc>
-    <lastmod>2024-02-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/visualizaciondedatos/introduccion_plots/</loc>
-    <lastmod>2024-02-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/visualizaciondedatos/dataframes/</loc>
-    <lastmod>2024-02-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/visualizaciondedatos/intro-a-julia/</loc>
-    <lastmod>2024-02-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/visualizaciondedatos/arreglos/</loc>
-    <lastmod>2024-02-13</lastmod>
+    <lastmod>2024-04-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://tlienart.github.io/FranklinTemplates.jl/visualizaciondedatos/miniinterfaz/</loc>
-    <lastmod>2024-02-13</lastmod>
+    <lastmod>2024-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/epiojulia/sintaxis/</loc>
+    <lastmod>2024-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/cursojulia101/sintaxis/</loc>
+    <lastmod>2024-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/julia2023/ejercicios/</loc>
+    <lastmod>2024-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/julia2023/sintaxis/</loc>
+    <lastmod>2024-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/visualizaciondedatos/introduccion_plots/</loc>
+    <lastmod>2024-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/visualizaciondedatos/dataframes/</loc>
+    <lastmod>2024-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/visualizaciondedatos/intro-a-julia/</loc>
+    <lastmod>2024-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/visualizaciondedatos/arreglos/</loc>
+    <lastmod>2024-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/epiojulia/paquetes/</loc>
+    <lastmod>2024-04-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
