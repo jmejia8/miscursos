@@ -10,5 +10,5 @@ Luego, utilizaremos notebooks reactivos para aprender los conceptos básicos, te
 # Material del Curso
 
 - Instalación ([PDF](/epiojulia/instalacion.pdf))
-- Sintaxis ([notebook](/epiojulia/sintaxis.html))
-- Paquetes ([notebook](/epiojulia/paquetes.html))
+- Sintaxis ([notebook](/epiojulia/sintaxis))
+- Paquetes ([notebook](/epiojulia/paquetes))
